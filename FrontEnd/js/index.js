@@ -108,7 +108,7 @@ async function displayByCategory() {
   // console.log(buttons);
 }
 
-/*****Partie ou l'utilisateur et conecté*****/
+/*****Partie ou l'utilisateur et connecté*****/
 function logginAdmin() {
   if (user) {
     // Modifications si L'utilisateur est connecté
